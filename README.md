@@ -10,6 +10,8 @@
 ### Software Framework
 
   * khc_task_manager
+
+for task manager
   * khc_controller
   * khc_vision
   * khc_msgs
@@ -17,5 +19,3 @@
   * khc_knowledge
   * khc_gui_plugin
 
-
-writing test
