@@ -10,16 +10,16 @@
 ### Software Framework
 
   * khc_task_manager
-task manager
+ task manager
   * khc_controller
-controller
+ controller
   * khc_vision
-vision
+ vision
   * khc_msgs
-msgs
+ msgs
   * khc_gripper
-gripper
+ gripper
   * khc_knowledge
-knowledge
+ knowledge
   * khc_gui_plugin
-gui
+ gui
