@@ -10,9 +10,9 @@
 ### Software Framework
 
   * khc_task_manager
-
 for task manager
   * khc_controller
+for controller
   * khc_vision
   * khc_msgs
   * khc_gripper
