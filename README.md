@@ -5,19 +5,34 @@
 
 
 ### OS Requirement
-
+- test
 
 ### Software Framework
 
   * khc_task_manager
 
 for task manager
+
   * khc_controller
 
 for controller
+
   * khc_vision
+
+for vision
+
   * khc_msgs
+
+for msgs
   * khc_gripper
+
+for gripper
+
   * khc_knowledge
+
+for knowledge
+
   * khc_gui_plugin
+
+for plugin
 
