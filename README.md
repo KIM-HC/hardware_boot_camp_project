@@ -5,7 +5,7 @@
 
 
 ### OS Configuration
-- Jetson Nano
+- Jetson Nano - Ubuntu 18.04
 - Realtime Kernel
 - 
 
