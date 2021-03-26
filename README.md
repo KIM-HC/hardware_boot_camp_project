@@ -5,6 +5,7 @@
 
 
 ### OS Configuration
+- Notion Link: https://www.notion.so/Jetson-Nano-be7bbaeb4ebc49f38a608842768f79e1
 - Jetson Nano - Ubuntu 18.04
 - Realtime Kernel
 - 
